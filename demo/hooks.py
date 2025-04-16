@@ -142,6 +142,7 @@ app_license = "mit"
 # 		"on_update": "method",
 # 		"on_cancel": "method",
 # 		"on_trash": "method"
+        
 # 	}
 # }
 
